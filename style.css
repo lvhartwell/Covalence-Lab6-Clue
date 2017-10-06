@@ -1,0 +1,12 @@
+body {
+    background-color: purple;
+}
+h3 {
+    font-family: Garamond, Times, Serif;
+    font-size: 5em;
+    color: green;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    border: 3px dashed green;
+}
